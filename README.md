@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a cutting‑edge, end‑to‑end developer showcase built to demonstrate modern web architecture, scalable component design, and production‑ready workflows.
 
 ## Getting Started
 
